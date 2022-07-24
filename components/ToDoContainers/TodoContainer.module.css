@@ -1,0 +1,20 @@
+.todolists {
+    position: fixed;
+    top: 200px;
+    left: 50px;
+    width: 350px;
+    height: 100px;
+    overflow: hidden;
+    overflow-y: auto;
+}
+
+.todolists::-webkit-scrollbar {
+    display: none;
+}
+
+.listpoint {
+    position: relative;
+    top: 100px;
+    left: 150px;
+    color: #000000;
+}

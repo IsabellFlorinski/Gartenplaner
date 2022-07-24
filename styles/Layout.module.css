@@ -1,0 +1,17 @@
+.wrapper {
+    
+    max-width: 410px;
+    height: 715px;
+    background: linear-gradient(to bottom, #9ef9ff, #5eb130);
+    }
+
+.sonstText {
+    padding-top: 20px;
+    text-align: center;
+    color: #3f3177;
+}
+
+
+/*justify-content: center;
+align-items: center;
+flex-direction: column;*/

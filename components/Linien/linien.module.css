@@ -1,0 +1,19 @@
+.Oben {
+    position: fixed;
+    top: 140px;
+    left: 30px;
+    padding: 1px;
+    border: 4;
+    background-color: black;
+    width: 350px;
+}
+
+.Unten {
+    position: fixed;
+    top: 620px;
+    left: 30px;
+    padding: 1px;
+    border: 4;
+    background-color: black;
+    width: 350px;
+}

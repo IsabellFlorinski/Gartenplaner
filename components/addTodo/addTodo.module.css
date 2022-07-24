@@ -1,0 +1,25 @@
+.inputTodo { 
+    position: fixed;
+    top: 180px;
+    left: 50px;
+    width: 350px;
+    height: 420px;
+}
+
+.btnAdd {
+    position: fixed;
+    top: 180px;
+    left: 315px; 
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.inputField {
+    text-align: center;
+    height: 30px;
+    width: 240px;
+    border-radius: 20px;
+}

@@ -1,0 +1,57 @@
+.newPlantContent {
+    position: fixed;
+    top: 170px;
+    left: 30px;
+    width: 350px;
+    height: 440px;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.newPlantContent::-webkit-scrollbar {
+    display: none;
+}
+
+.label {
+    display: block;
+    
+}
+
+.heading {
+    color: #3f3177;
+}
+
+.inputField {
+    text-align: center;
+    height: 30px;
+    width: 240px;
+    border-radius: 20px;
+}
+
+.inputTextarea{
+    text-align: center;
+    height: 60px;
+    width: 240px;
+    max-width: 240px;
+
+    border-radius: 20px;
+}
+
+.saveBtn {
+    font-size: 0.5rem;
+    margin-right: 1px;
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+.deleteBtn {
+    margin-left: 1px;
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

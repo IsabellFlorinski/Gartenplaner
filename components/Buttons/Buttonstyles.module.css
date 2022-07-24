@@ -1,0 +1,33 @@
+.APbtn {
+    position: fixed;
+    top: 106px;
+    left: 330px; 
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+
+}
+
+.btnEdit {
+    position: fixed;
+    top: 106px;
+    left: 280px;
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}
+
+.btnDelete {
+    position: fixed;
+    top: 106px;
+    left: 330px;
+    background-color: #ffc000;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+}

@@ -1,0 +1,15 @@
+
+.listpoint {
+    position: relative;
+    top: 130px;
+    left: 50px;
+    color: #000000;
+}
+
+.deleteLP {
+    color: #841b1b;
+    cursor: pointer;
+    position: fixed;
+    left: 330px;
+    
+}

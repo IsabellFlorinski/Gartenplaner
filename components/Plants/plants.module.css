@@ -1,0 +1,37 @@
+.plantContent{
+    position: fixed;
+    top: 170px;
+    left: 30px; 
+    width: 350px;
+    height: 440px;
+    overflow: hidden;
+    overflow-y: auto;
+    text-align: center;
+}
+
+.plantContent::-webkit-scrollbar {
+    display: none;
+}
+    
+.btnPrimary {
+    margin: 0.3rem;
+
+    color: white;
+    background-color: #3f3177;
+    border-radius: 15px;
+    border: none;
+    font-size: 0.9rem;
+
+    height: 100px;
+    width: 100px;
+    cursor: pointer;
+}
+
+.ptext {
+        margin: 5px;
+    }
+
+.heading {
+   color: #3f3177;
+}
+

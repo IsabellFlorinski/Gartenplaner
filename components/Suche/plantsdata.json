@@ -1,0 +1,48 @@
+[
+  {
+    "title": "Lavendel",
+    "standort": "sonnig und warm, wind- und regengeschützt",
+    "ernte": "mitte juli- anfang august",
+    "wintervorbereitung": "mit reisig oder vlies schützen",
+    "pflege": "schnitt im Sommer oder Frühjahr 2,5 cm ins alte Holz, grüne triebe sollten zu sehen sein",
+    "anmerkung": "zaun verbessern, letztes Jahr hat sich immer ein Hund draufgelegt",
+    "link": "/Lavendel"
+  },{
+    "title": "Ringelblume",
+    "standort": "eigentlich überall",
+    "ernte": "sobald sie blühen",
+    "wintervorbereitung": "keine",
+    "pflege": "keine",
+    "anmerkung": "säht sich super von alleine aus"
+  },{
+    "title": "Salbei",
+    "standort": "sonnig und warm",
+    "ernte": "sobald blätter da sind",
+    "wintervorbereitung": "keine",
+    "pflege": "tote äste abschneiden",
+    "anmerkung": "keine"
+  },{
+    "title": "Karotten",
+    "standort": "hell, sonnig und warm",
+    "ernte": "nach drei monaten aussaat",
+    "wintervorbereitung": "keine",
+    "pflege": "gießen",
+    "anmerkung": "boden vorn im Garten ist zu hart",
+    "link": "/Karotten"
+
+  },{
+    "title": "Weintrauben (rot)",
+    "standort": "sonnig und warm",
+    "ernte": "ende august bis mitte november möglich",
+    "wintervorbereitung": "keine",
+    "pflege": "gießen",
+    "anmerkung": "zaun eventuell nochmal verstärken"
+  },{
+    "title": "Basilikum",
+    "standort": "gerne unter einem gewächs wie busch oder tomaten",
+    "ernte": "sobald blätter da sind",
+    "wintervorbereitung": "keine",
+    "pflege": "gießen",
+    "anmerkung": "keine"
+  } 
+]
